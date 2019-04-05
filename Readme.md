@@ -1,9 +1,12 @@
 # Text-summarization
 ----------------------
-using six features
-- 
-- 
-- 
+Using six features
+- ### Sentence_position
+- ### Word_frequencies
+- ### Sentence_length
+- ### Sentence_proper_noun
+- ### Sentence_numerals
+- ### Tfsdf
 
 ### How to run?
 
